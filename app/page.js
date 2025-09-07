@@ -256,7 +256,7 @@ const SmartTecWebsite = () => {
                 <span className="contact-icon">📧</span>
                 <div className="contact-details">
                   <p>Email</p>
-                  <p>smarttecanalytics@gmail.com</p>
+                  <p>info@smarttecanalytics.co</p>
                 </div>
               </div>
               
@@ -264,7 +264,7 @@ const SmartTecWebsite = () => {
                 <span className="contact-icon">📞</span>
                 <div className="contact-details">
                   <p>Phone</p>
-                  <p>+92-3216541361</p>
+                  <p>+971-569296322</p>
                 </div>
               </div>
               
@@ -272,7 +272,7 @@ const SmartTecWebsite = () => {
                 <span className="contact-icon">📍</span>
                 <div className="contact-details">
                   <p>Location</p>
-                  <p>Global Remote Services</p>
+                  <p>AL Nakhil 2 Omer Bin Khitab Road Near Ajman Chamber, Ajman UAE</p>
                 </div>
               </div>
             </div>
